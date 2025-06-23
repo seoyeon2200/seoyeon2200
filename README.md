@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Lee Seoyeon. </h1>
-<p align="center">🎓 Computer Science student & Full-Stack Developer & AI Explorer </p>
 
-### 🚀 About Me
-
+### 👩‍💻 About Me
+- 🎓 Computer Science student with a focus on AI and full-stack development  
 - 🧠 Recently diving deep into **AI & Deep Learning**
-- 💻 Building real-world projects with both frontend & backend skills
-- 🎯 Always learning — from system design to transformers
+- 🌎 Experienced in building end-to-end services across frontend, backend, and ML systems
 
+### 🛠Tech Stack
 
 #### 📌 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -23,6 +21,3 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
