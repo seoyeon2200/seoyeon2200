@@ -1,8 +1,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science student with a focus on AI and full-stack development  
-- 🧠 Recently diving deep into **AI & Deep Learning**
+- 🎓 Computer Science student with a focus on AI and full-stack development
 - 🌎 Experienced in building end-to-end services across frontend, backend, and ML systems
 
 ## 🛠Tech Stack
